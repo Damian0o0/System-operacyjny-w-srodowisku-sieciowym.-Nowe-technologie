@@ -1,0 +1,48 @@
+Nowe technologie i oprogramowanie.
+2.1
+
+Wirtualną Rzeczywistością(z ang. Virtual Reality - VR) nazywamy stworzony komputerowo obraz sztucznej rzeczywistości, czyli przedmiotów, przestrzeni i zachodzących w niej zdarzeń. Może się składać z elementów świata rzeczywistego lub być symulacją świata fikcyjnego.
+
+Rozszerzoną Rzeczywistością(z ang. Augmented Reality - AR) nazywamy system łączący świat rzeczywisty z generowanym komputerowo.
+
+Zastosowania VR i AR:
+
+VR i AR mają bardzo praktyczne zastosowania. Wykorzystuje się je m.in. do leczenia fobii, np. strachu przed pająkami czy lęku przestrzeni. 
+Wirtualną rzeczywistość wykorzystuje się również w medycynie - na podstawie przeprowadzonych badań tworzy się model 3D fragmentu ciała. Dzięki niemu chirurg może lepiej zaplanować operację. 
+AR sprawdza się świetnie np. w nawigacji i turystyce. Obie technologie przydają się również w edukacji. Naukowcy mogą również wykorzystać te technologie np. do odtwarzania świata prehistorycznego lub do badania przyczyn katastrof, a architekci mogą obrazować w ten sposób swoje projekty.
+
+2.2
+
+Sztuczna Inteligencja (z ang. artifical intelligence - AI) jest bardzo szerokim pojęciem.
+
+Rolą AI jest wykonanie stosunkowo trudnych zadań, które uznaje się za wymagające inteligencji, jeśli są podejmowane przez człowieka. Cechą charakterystyczną systemów sztucznej inteligencji jest to, że mają zdolność uczenia się:
+
+Aby efektywnie działać sztuczna inteligencja potrzebuje dostępu do:
+- dużej liczby danych, tzw. big data,
+- mocy obliczeniowej potrzebnej do ich analizy,
+- sprzętu i oprogramowania.
+Wymagania te w dużej mierze może spełnić chmura obliczeniowa.
+
+2.3
+Chmura obliczeniowa polega na udostępnieniu użytkownikowi za pośrednictwem internetu możliwośći obliczeniowych dzięki przeznaczonym do tego celu: serwerom, bazom danych, sieciom, oprogramowaniu i narzędziom analitycznym.
+
+2.4
+
+Dzisiaj automaty spotykamy w domu, na ulicy, w urzędach, na ulicy, fabrykach i restauracjach.
+
+2.5
+
+W ostatnich latach duża popularność zdobywają drukarki 3D, zwane również drukarkami przestrzennymi. Koszty ich eksploatacji są coraz niższe, a zastosowania z roku na rok szersze. Urządzenia te pozwalają drukować różnego rodzaju modele i prototypy. Mogą korzystać z rozmaitych materiałów, również jadalnych.
+
+2.6
+
+Omówione dotychczas technologie wdraża się zazwyczaj poprzed odpowiednie oprogramowanie komputerowe. Choć może nie wszyscy zdają sobię z tego sprawę, program komputerowy podlega ochronie prawnej, podobnie jak utwory literackie lub muzyczne.
+
+2.7
+
+Zagrożenia wynikające z rozwoju technologii :
+- Uzależnienia
+- Wady wzroku
+- Wady postawy
+- Zespół cieśni nadgarstka
+- Zastąpienie ludzi przez roboty w wypełnianiu pracm które dotychcasz były uznawane za domenę ludzi, co może doprowadzić do wzrostu bezrobocia.
